@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shink-dev-155639-authRole",
+      "UnauthRoleArn": "arn:aws:iam::709488052794:role/amplify-shink-dev-155639-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::709488052794:role/amplify-shink-dev-155639-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-shink-dev-155639-deployment",
+      "UnauthRoleName": "amplify-shink-dev-155639-unauthRole",
+      "StackName": "amplify-shink-dev-155639",
+      "StackId": "arn:aws:cloudformation:eu-north-1:709488052794:stack/amplify-shink-dev-155639/a5c3c770-718e-11ee-a5b8-06649f275e26",
+      "AmplifyAppId": "dwjk3cwvxkgkp"
+    },
+    "categories": {
+      "api": {
+        "shinkapitest": {}
+      },
+      "auth": {
+        "shink019ddb18": {}
+      },
+      "storage": {
+        "userimagesbucket": {}
+      }
+    }
+  }
+}

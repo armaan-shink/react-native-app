@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521241665183",
+    "project_id": "shink-test-401412",
+    "storage_bucket": "shink-test-401412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521241665183:android:e9cd386c76cdb75ab5ccaa",
+        "android_client_info": {
+          "package_name": "com.shink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9BBpK_PhyZUDVvMtos3paXZcuNqtMqY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

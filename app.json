@@ -1,0 +1,10 @@
+{
+  "name": "Shink",
+  "displayName": "Shink",
+  "android": {
+    "package": "com.shink"
+  },
+  "ios": {
+    "bundleIdentifier": "com.shink"
+  }
+}
